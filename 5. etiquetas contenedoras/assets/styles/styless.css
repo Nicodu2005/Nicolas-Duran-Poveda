@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(149, 221, 243);
+}
+.container{
+    width: auto;
+    height: auto;
+    
+color:  rgb(0, 0, 0);
+}
+
+img{
+    display: block;
+    margin: 5px auto;
+    width: 500px;
+    height: 300px;
+    image-rendering: pixelated;
+/*ayuda al pixelage de la imagen es decri q se vea mejor*/ 
+    border:2px solid black ;
+}
+
+h2{
+    text-align: center;
+    color: #3308f3;
+    font-family:cursive ;
+}
+h3{
+    font-family:sans-serif;
+    color: rgb(40, 58, 216);
+}
+h1{
+    color: rgb(231, 137, 15);
+    font-family: 'Courier New', Courier, monospace;
+}
+li{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+}
